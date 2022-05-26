@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">ktrl2t</string>
+  <string name="title">Parking</string>
+  <string name="regNum">B0344KT</string>
+  <string name="owner">Viktor</string>
+  <string name="used">Used</string>
+  <string name="mark">Mitsubishi</string>
+  <string name="model">Carisma</string>
+  <string name="fuel">Gas</string>
+  <string name="full">Full</string>
+  <string name="empty">Empty</string>
+</resources>
